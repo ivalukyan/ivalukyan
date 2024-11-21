@@ -6,7 +6,9 @@
 - 👀 I'm interested in discovering new technologies in the world
 - 🌱 I’m currently learning Go, Java
 - 💞️ I’m looking to collaborate on Sber, Yandex and other IT companies
-- 📫 How to reach me <i>lukyanov.i.n@mail.ru</i>  <i><b>telegram</b></i> --> <i>@ivalkn</i> 
+- 📫 How to reach me:
+  -  <i>lukyanov.i.n@mail.ru</i>
+  -  <i><b>telegram</b></i>: <i>@ivalkn</i> 
 
 <!---
 ivalukyan/ivalukyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
