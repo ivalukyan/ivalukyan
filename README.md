@@ -4,8 +4,6 @@
 
 - 👋 Hi, I’m @ivalukyan
 - 👀 I'm interested in discovering new technologies in the world
-- 🌱 I’m currently learning Java/Kotlin and C++
-- 💞️ I’m looking to collaborate on Sber, Yandex and other IT companies
 - 📫 How to reach me:
   -  <i>lukyanov.i.n@mail.ru</i>
   -  <i><b>telegram</b></i>: <i>@ivalkn</i> 
